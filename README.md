@@ -1,15 +1,34 @@
 # resume
 name:rifah 
 skills: web dev,data analy![istockphoto-1144823591-612x612](https://github.com/user-attachments/assets/0f97f23b-b951-4be8-a996-1bc3bf25c3d2)
+
+
+
+
+
 [Your Full Name]
 [Your Address] | [Your City, State, ZIP]
 [Your Phone Number] | [Your Email Address] | [LinkedIn URL] (optional) | [Portfolio/Website URL] (optional)
 
+
+
+
+
+
 PROFESSIONAL SUMMARY
 A concise paragraph (3-4 sentences) summarizing your key skills, experience, and career goals. Tailor this to the specific job you are applying for. Focus on your value proposition.
 
+
+
+
+
+
 Example:
 Experienced marketing professional with over 5 years of expertise in digital marketing, content creation, and brand strategy. Proven track record in driving engagement and increasing ROI for diverse clients. Adept at using analytics tools to optimize campaigns and deliver measurable results. Passionate about creative problem-solving and delivering impactful marketing solutions.
+
+
+
+
 
 PROFESSIONAL EXPERIENCE
 [Job Title]
